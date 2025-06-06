@@ -1,6 +1,6 @@
 # calculadora  em py
 
-{
+
 import re
 
 # o simbolo | tem a função "e/ou"
